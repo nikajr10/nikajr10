@@ -1,5 +1,3 @@
-<h1 align="center"><i font-color="pink">Until Death, All Defeat Is Psychological</i></h1>
-
-
+$$\Huge{\color{#C2185B}\textit{Until Death, All Defeat Is Psychological}}$$
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
