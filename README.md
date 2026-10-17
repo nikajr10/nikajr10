@@ -1,7 +1,8 @@
-<img src="assets/luffy-eating.gif" align="right" width="320" alt="Luffy eating" />
+<p>
+  <img src="assets/quote.svg" align="left" width="480" alt="Until Death, All Defeat Is Psychological" />
+  <img src="assets/luffy-eating.gif" align="right" width="320" alt="Luffy eating" />
+</p>
 
-$\Huge{\color{#C2185B}\textit{Until Death, All Defeat Is Psychological}}$
-
-<br clear="right" />
+<br clear="both" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
